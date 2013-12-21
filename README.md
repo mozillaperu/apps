@@ -37,7 +37,6 @@ Otras apps
 Lista de apps genéricas también desarrolladas por mozilleros peruanos.
 
 Paint
------
 
 * Repositorio: https://github.com/marti1125/paint
 * Marketplace: https://marketplace.firefox.com/app/paint-1
